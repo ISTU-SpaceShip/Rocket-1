@@ -6,5 +6,5 @@ Serial.begin(9600);
 
 void loop() {
 // write your code here
-    Serial.print("Hello world1 '!r");
+    Serial.print("Hello world1 'r");
 }
